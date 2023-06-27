@@ -40,3 +40,6 @@ docs/doxygen/
 
 #include Content folder
 !*.uasset
+!*.png
+
+#TODO change this to be a blacklist instead of whitelist? makes it much less error-prone imo
