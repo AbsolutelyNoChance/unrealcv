@@ -1,3 +1,7 @@
+# Important
+This is a modification of the original unrealcv project. I used the master and the 4.27-stable branches. This compiles on UE5.2, with some problems (object_mask is currently broken and the workflow is extremely unstable).
+I only tested this on Ubuntu 22.04 on a very limited set of commands. Certain features may have been lost in my research experiment. So as a disclaimer: I can't guarantee that this still works like the original unrealcv, or on the same hardware.
+
 # UnrealCV
 
 [![Join the chat at https://gitter.im/unrealcv/unrealcv](https://badges.gitter.im/unrealcv/unrealcv.svg)](https://gitter.im/unrealcv/unrealcv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
